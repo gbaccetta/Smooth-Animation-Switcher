@@ -1,6 +1,8 @@
 # Smooth AnimatedSwitcher transitions
 This Demo Project show how to obtain a smooth Flutter animation, when using AnimatedSwitcher to switch between two widgets with different size.
 
+![Example](20210303_124923.gif)
+
 ## Tutorial
 
 Find the tutorial here:
